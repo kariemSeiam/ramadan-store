@@ -413,7 +413,7 @@ function print() { __p += __j.call(arguments, '') }
                           border border-amber-400/20 backdrop-blur-sm`,children:[y.jsx(Jh,{className:"w-4 h-4 animate-bounce"}),y.jsx("span",{className:"text-sm font-medium",children:"اضغط هنا لتأكيد طلبك"}),y.jsx(P_,{className:"w-4 h-4 animate-pulse"}),y.jsx("div",{className:`absolute -bottom-1.5 left-1/2 -translate-x-1/2 \r
                             w-3 h-3 bg-gradient-to-br from-amber-500 to-amber-600 rotate-45`})]})}),y.jsxs("div",{className:`bg-gray-900/95 backdrop-blur-xl p-2 rounded-full \r
                          border border-gray-700/50 shadow-xl\r
-                         flex items-center justify-between gap-2`,children:[y.jsxs("button",{onClick:()=>U(!0),className:`flex-1 h-12 rounded-full flex items-center justify-center gap-3 px-4\r
+                         flex items-center justify-between gap-2`,children:[y.jsxs("button",{onClick:()=>U(!0),className:`flex-1 h-12 rounded-full flex items-center justify-center gap-3 px-2\r
                        bg-gradient-to-r from-gray-800/80 to-gray-700/80 \r
                        hover:from-gray-700/80 hover:to-gray-600/80\r
                        transition-all duration-300 border border-gray-700/50 \r
@@ -427,7 +427,7 @@ function print() { __p += __j.call(arguments, '') }
                                  text-xs font-bold scale-100 group-hover:scale-110\r
                                  transition-transform`,children:[b.length,y.jsx("div",{className:`absolute inset-0 rounded-full animate-ping \r
                                    bg-gradient-to-r from-red-500/40 to-red-600/40`})]})]})]}),y.jsx("div",{className:`absolute inset-0 bg-gradient-to-r from-gray-700/0 via-gray-700/30 to-gray-700/0\r
-                           translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-1000`})]}),y.jsxs("button",{onClick:ue,disabled:te,className:`${xe} h-12 rounded-full relative overflow-hidden
+                           translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-1000`})]}),y.jsxs("button",{onClick:ue,disabled:te,className:`${xe} h-12 rounded-full relative overflow-hidden px-16
                        transition-all duration-500 transform
                        ${te?"bg-gradient-to-r from-green-500 to-green-600 scale-105":"bg-gradient-to-r from-amber-500 to-amber-600 hover:scale-105"}`,children:[y.jsx("div",{className:`absolute inset-0 flex items-center justify-center
                            transition-transform duration-500
